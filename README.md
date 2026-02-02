@@ -1,4 +1,4 @@
-#Linear Programming
+# Linear Programming
 
 ```
 Course Code : MAT201
@@ -34,7 +34,7 @@ Learning Outcomes
 
 ---
 
-Upon completion of the course, students should be able to:
+## Upon completion of the course, students should be able to:
 
 • Students will be able to accurately formulate linear programming problems and
 represent them graphically or in matrix notation, distinguishing between bounded,
